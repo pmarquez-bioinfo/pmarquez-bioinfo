@@ -2,7 +2,7 @@
 
 My name is Pablo Marquez, I'm a Software developer from Montevideo Uruguay.
 
-* Currently working at TalkingPoints (https://talkingpts.org).
+*   Currently working at TalkingPoints (https://talkingpts.org).
 
 ## Skills
 
@@ -14,5 +14,5 @@ I have experience working with:
 
 ## Contact Info
 
-My email is pamarquez90@gmail.com 
-Linkedin linkedin.com/in/pablo-marquez-b8336368 
+*   My email is pamarquez90@gmail.com 
+*   Linkedin https://linkedin.com/in/pablo-marquez-b8336368 
