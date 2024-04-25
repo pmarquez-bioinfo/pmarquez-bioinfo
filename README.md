@@ -7,7 +7,7 @@ My name is Pablo Marquez, I'm a Software developer from Montevideo Uruguay.
 ## Skills
 
 I have experience working with:
-*   Web Development: Javascript, html, css, Meteor, Blaze, MongoDB
+*   Web Development: Javascript, html, css, MongoDB, Meteor, Blaze, Boostrap
 *   Mobile: flutter, dart
 *   Data Science: R, Python and bash_scripting.
 *   Game Development: Unity, C#, Haxe, PyGame
